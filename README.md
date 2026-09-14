@@ -9,7 +9,7 @@ This repository contains the original measurement data used for the noise-figure
 - The CSV files contain the raw noise-figure measurements acquired at different temperatures.
 - `Deembedded_Noise_Figure_Summary_Final.xlsx` consolidates the raw noise-figure data at different temperatures. It also contains the fixture insertion loss and the actual noise figure obtained after de-embedding.
 - The insertion-loss path includes an approximately 10 dB attenuator, together with the losses introduced by the cables and interconnections.
-- In the filenames, `f40C` and `f20C` denote -40 °C and -20 °C, respectively.
+- In the filenames, `f40C` denotes -40 °C.
 
 ### `Fig5_top_left_right_temp_SP`
 
